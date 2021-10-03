@@ -14,3 +14,4 @@ do
 	do
 		ruby ~/relative-url-extractor/extract.rb scriptsresponse/$domain/$file >> endpoints/$domain/$file 
 	done
+done
